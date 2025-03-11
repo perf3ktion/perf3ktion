@@ -1,9 +1,5 @@
 <h1 align="center">Hola 👋, I'm Leigh</h1>
 <h3 align="center">Creative Director @ [Liftoff Creative](https://liftoff.cr)<br />
-Co-Founder @ [Supply Drop](https://supply-drop.io)<br />
-Co-Founder @ [Trawlr](https://trawlr.io)</h3>
-
-- I’m currently working on [Supply Drop](https://supply-drop.io) - A drop-shipping boilerplate generator to get you selling fast!
 
 - 🌱 I’m currently learning **Flutter, TypeScript & Go (Soon)**
 
@@ -17,7 +13,6 @@ Co-Founder @ [Trawlr](https://trawlr.io)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/perf3ktion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="perf3ktion" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leigh-brownfield-2586a097/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leigh-brownfield-2586a097/" height="30" width="40" /></a>
 <a href="https://fb.com/leigh.brownfield" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="leigh.brownfield" height="30" width="40" /></a>
 <a href="https://instagram.com/perf3ktion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="perf3ktion" height="30" width="40" /></a>
